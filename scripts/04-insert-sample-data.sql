@@ -1,0 +1,12 @@
+-- Insert sample data (optional - you can run this after authentication is working)
+-- This will only work after you have authenticated users
+
+-- Sample note (replace 'your-user-id' with actual user ID after signup)
+-- INSERT INTO public.notes (title, content, collection, user_id, content_hash)
+-- VALUES (
+--     'Welcome to Notsey',
+--     'This is your first note! You can edit this content and see how the AI analysis works.',
+--     'Getting Started',
+--     'your-user-id',
+--     'sample-hash-123'
+-- );
