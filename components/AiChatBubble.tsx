@@ -54,7 +54,7 @@ export default function AiChatBubble({ initialAnalysis, noteTitle, onClose }: Ai
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "X-goog-api-key": "AIzaSyBwva7OjbZMXFR_rV9CKrqcRreJ9kLK6L4",
+            "X-goog-api-key": "APIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
           },
           body: JSON.stringify({
             contents: [
